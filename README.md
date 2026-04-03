@@ -1,6 +1,6 @@
 # Real_Estate_data_pipline_with_Aws
 
-![Redfin Dashboard](visualizations/Redfin_Analytics_Dashboard.JPG)
+![Architecture Diagram](Architecture/Real_Estate_data_pipeline_Architecture.png)
 
 This project implements a scalable data pipeline to extract, transform, and load real estate data from Redfin into Snowflake using AWS services. The data is later visualized in Power BI to provide insights into real estate trends.
 
@@ -55,5 +55,6 @@ The architecture includes the following components:
   
   ## Visualizations through Power BI
 
-![Redfin Dashboard](visualizations/redfin-dashboard.png)
+  ![Redfin Dashboard](visualizations/Redfin_Analytics_Dashboard.JPG)
+
 
